@@ -1,9 +1,9 @@
 {
-  "Name": "FullBarFishing",
+  "Name": "Elegant Pretence",
   "Author": "Stan",
   "Version": "1.0.0",
-  "Description": "Makes fishing easier.",
-  "UniqueID": "Stan.FullBarFishing",
+  "Description": "You still fish. You just can't fail anymore.",
+  "UniqueID": "Stan.ElegantPretence",
   "EntryDll": "FullBarFishing.dll",
   "MinimumApiVersion": "4.0.0"
 }
