@@ -1,0 +1,9 @@
+{
+  "Name": "FullBarFishing",
+  "Author": "Stan",
+  "Version": "1.0.0",
+  "Description": "Makes fishing easier.",
+  "UniqueID": "Stan.FullBarFishing",
+  "EntryDll": "FullBarFishing.dll",
+  "MinimumApiVersion": "4.0.0"
+}
